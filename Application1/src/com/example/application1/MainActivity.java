@@ -47,7 +47,6 @@ public class MainActivity extends ActionBarActivity {
     	char[] a = new char[20];
     	char[] b;
     	b=s.toCharArray();
-    	//if(b.length==20)return "LOL";
     	int i,c=0;
     	for(i=0;i<b.length;i++){
     		//a[i]=(char)(Character.getNumericValue(b[i]));
